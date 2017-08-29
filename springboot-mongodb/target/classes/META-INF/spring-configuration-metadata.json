@@ -1,0 +1,32 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.nishant.spring.mongodb.config.MongoConfigProperties",
+      "name": "spring.data.mongodb",
+      "type": "com.nishant.spring.mongodb.config.MongoConfigProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.nishant.spring.mongodb.config.MongoConfigProperties",
+      "name": "spring.data.mongodb.collectionname",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.nishant.spring.mongodb.config.MongoConfigProperties",
+      "name": "spring.data.mongodb.database",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.nishant.spring.mongodb.config.MongoConfigProperties",
+      "name": "spring.data.mongodb.host",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.nishant.spring.mongodb.config.MongoConfigProperties",
+      "name": "spring.data.mongodb.port",
+      "type": "java.lang.Integer"
+    }
+  ]
+}
